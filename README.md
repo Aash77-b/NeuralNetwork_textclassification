@@ -164,17 +164,17 @@ Comparison with traditional ML models:
 
 | Model | Accuracy | Training Time |
 |-------|----------|---------------|
-| Neural Network | 98.5% | Medium |
-| Logistic Regression | 97.8% | Fast |
-| Random Forest | 96.2% | Slow |
-| Linear SVM | 97.5% | Fast |
+| Neural Network | 94.76% | Medium |
+| Logistic Regression | 94.33% | Fast |
+| Random Forest | 93.73% | Slow |
+| Linear SVM | 94.86% | Fast |
 
 ## 🎯 Sample Predictions
 
 | Headline | Prediction | Confidence |
 |----------|------------|------------|
-| "Aliens have landed in New York and taken control." | Fake News | 98.7% |
-| "Secret government project creates invisible humans." | Fake News | 99.1% |
+| "NASA's Perseverance Rover finds organic molecules on Mars." | Fake News | 98.7% |
+| "Secret government project creates invisible humans." | Fake News | 51.44% |
 
 ## 🔧 Improvements and Future Work
 
