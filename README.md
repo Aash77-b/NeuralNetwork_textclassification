@@ -13,7 +13,7 @@ Hidden Layer 3: 64 neurons with ReLU activation + Dropout (0.2)
 Output Layer: 1 neuron with Sigmoid activation for binary classification
 
 How many epochs did you train your model?
-I trained for 20 epochs with early stopping (patience=3). The actual number of epochs varied based on when the model stopped improving, typically around 8-12 epochs.
+I trained for 15 epochs with early stopping (patience=3). The actual number of epochs varied based on when the model stopped improving, typically around 8-12 epochs.
 
 What activation functions did you use?
 
