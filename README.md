@@ -197,7 +197,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👨‍💻 Author
 
-Your Name
 - GitHub: [@Aash77-b](https://github.com/Aash77-b)
 
 ## 🙏 Acknowledgments
