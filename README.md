@@ -144,17 +144,17 @@ Output Layer (1 neuron, Sigmoid)
 ## 📈 Results
 
 ### Performance Metrics
-- **Test Accuracy**: 98.5%
-- **Precision**: 98.5%
-- **Recall**: 98.5%
-- **F1-Score**: 98.5%
+- **Test Accuracy**: 94.46%
+- **Precision**: 95.21%
+- **Recall**: 94.74%
+- **F1-Score**: 94.97%
 
 ### Confusion Matrix
 ```
               Predicted
               Real  Fake
-Actual Real   4283   57
-       Fake    43    4697
+Actual Real   4284   57
+       Fake    43    4696
 ```
 
 
