@@ -138,7 +138,7 @@ Output Layer (1 neuron, Sigmoid)
 - **Optimizer**: Adam (learning_rate=0.001)
 - **Loss Function**: Binary Crossentropy
 - **Batch Size**: 64
-- **Epochs**: 20 (with early stopping)
+- **Epochs**: 15 (with early stopping)
 - **Validation Split**: 20%
 
 ## 📈 Results
